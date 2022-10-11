@@ -47,6 +47,7 @@
 ![C_Programming](https://user-images.githubusercontent.com/65850970/195021124-245e4a0b-aefa-43b2-9b92-699e327acfad.svg)
 ![C_Programming_Advanced](https://user-images.githubusercontent.com/65850970/195021145-b3ea4bcb-79a2-47a4-a568-159a8af15276.svg)
 ![C_Programming_DS_ALGO](https://user-images.githubusercontent.com/65850970/195021319-125e3ba6-7849-4fd5-89f9-21f125eaec5b.svg)
+![C_CMake](https://user-images.githubusercontent.com/65850970/195054430-b9811055-5aa7-4bd3-8e6f-645b3c4c2bef.svg)
 
 
 <br>
@@ -57,3 +58,12 @@
 ![CPP_Programming_Advanced](https://user-images.githubusercontent.com/65850970/195021856-38fe92d2-561c-43ef-ba1f-79b86e0a9707.svg)
 ![CPP_Programming_DS_ALGO](https://user-images.githubusercontent.com/65850970/195021878-d9ed56a8-5dae-4543-a2d1-9472daa07702.svg)
 ![CPP_Desktop_QT](https://user-images.githubusercontent.com/65850970/195022052-a1f9a42e-5c2f-46ac-ae07-fe0973ca35eb.svg)
+
+<br>
+
+![Microcontrollers](https://user-images.githubusercontent.com/65850970/195054706-4f3b11fd-30d2-4b4c-bd85-1d901ddebe02.png)
+
+![Microcontroller_Development](https://user-images.githubusercontent.com/65850970/195055295-5e814f45-b3df-4c12-9a07-cb35b26a760e.svg)
+![Arduino](https://user-images.githubusercontent.com/65850970/195055304-4692e918-0dfa-448e-b4cf-074ef71646f8.svg)
+![RaspberryPi](https://user-images.githubusercontent.com/65850970/195055335-522f92e2-cdb6-49ef-8972-c4fcbf87dd44.svg)
+![STM32](https://user-images.githubusercontent.com/65850970/195055346-14f09a4b-e227-4dc0-88e2-cdd5dd5b6e9e.svg)
