@@ -84,7 +84,27 @@
 ![Digital_Electronics](https://user-images.githubusercontent.com/65850970/195018959-b1bd4acd-5a72-41f1-9756-86f295bc2312.svg)
 ![Analog_Hardware_Design](https://user-images.githubusercontent.com/65850970/195018966-5b1856c1-abab-4c12-bc58-6f20ebeec7a1.svg)
 
+### Digital Electronics
+
+>➕ &nbsp; A must for understanding the circuits and embedded systems.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Digital Electronics | [Link](https://www.udemy.com/course/crash-course-digital-electronics/) | Udemy | Course | Electronics | Paid 
+| Digital Electronics | [Link](https://www.youtube.com/watch?v=DBTna2ydmC0&list=PLwjK_iyK4LLBC_so3odA64E2MLgIRKafl&ab_channel=ALLABOUTELECTRONICS) | YouTube | Course | Electronics | Free 
+
 <br>
+
+### Analog Hardware Design
+
+>➕ &nbsp; An embedded engineer should have a high understanding of hardware and circuits.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Analog Hardware Design | [Link](https://www.udemy.com/course/electronic-circuits-for-beginners-analog-hardware-design/) | Udemy | Course | Electronics | Paid 
+| Analog Hardware Design | [Link](https://www.youtube.com/watch?v=OUkN7aqnnVs&list=PLcZAXSZxgsINvvGSlRenjhp1bgCXkb5d0&ab_channel=StudyingLplus) | YouTube | Course | Electronics | Free 
+
+<br><hr><br>
 
 ![Computer Architecture](https://user-images.githubusercontent.com/65850970/195019164-6b040573-d146-48b9-a191-7de517065148.png)
 
