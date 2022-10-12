@@ -32,7 +32,7 @@
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Linear Algebra | [Link](https://www.udemy.com/course/linear-algebra-course/) | Udemy | Course | Mathematics | Paid 
-| Algebra | [Link](https://www.youtube.com/watch?v=JnTa9XtvmfI&ab_channel=freeCodeCamp.org) | Youtube | Course | Mathematics | Free 
+| Linear Algebra | [Link](https://www.youtube.com/watch?v=JnTa9XtvmfI&ab_channel=freeCodeCamp.org) | Youtube | Course | Mathematics | Free 
 
 <br>
 
