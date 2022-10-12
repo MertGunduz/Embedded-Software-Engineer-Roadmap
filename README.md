@@ -1,6 +1,6 @@
 ![EMBEDDED SOFTWARE ENGINEER ROADMAP](https://user-images.githubusercontent.com/65850970/195013064-c1f15975-7a1b-4a76-957e-dee7dc68a295.png)
 
-☉ Languages: <strong>C/C++, Python</strong> <br>
+☉ Languages: <strong>C/C++</strong> <br>
 ☉ Sources: <strong>Udemy, YouTube, Articles</strong>
 
 <i>This roadmap gives general information about how to become an embedded software engineer. This repository is generally created for software developers/students who wanna become software engineers in embedded area.</i> <br> <br>
