@@ -14,7 +14,6 @@
 ![Calculus_1](https://user-images.githubusercontent.com/65850970/195016666-2368707a-0e33-4cd7-9425-3329df62ac7a.svg)
 ![Discrete_Math](https://user-images.githubusercontent.com/65850970/195016904-93430f34-e63c-4f49-a7ce-943c2bf4a8c8.svg)
 ![Number_Theory](https://user-images.githubusercontent.com/65850970/195017008-e1360ba5-da63-4a58-a595-fcf9963266a5.svg)
-![Graph_Theory](https://user-images.githubusercontent.com/65850970/195017185-2a495e78-ddf6-42d6-855f-2eb348a18c63.svg)
 
 ### Algebra
 >➕ &nbsp; The foundation of math is the first thing an embedded engineer should know.
@@ -22,7 +21,7 @@
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Algebra | [Link](https://www.udemy.com/course/integralcalc-algebra/) | Udemy | Course | Mathematics | Paid 
-| Algebra | [Link](https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO&ab_channel=DerekBanas) | Youtube | Course | Mathematics | Free 
+| Algebra | [Link](https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO&ab_channel=DerekBanas) | YouTube | Course | Mathematics | Free 
 
 <br>
 
@@ -32,9 +31,53 @@
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Linear Algebra | [Link](https://www.udemy.com/course/linear-algebra-course/) | Udemy | Course | Mathematics | Paid 
-| Linear Algebra | [Link](https://www.youtube.com/watch?v=JnTa9XtvmfI&ab_channel=freeCodeCamp.org) | Youtube | Course | Mathematics | Free 
+| Linear Algebra | [Link](https://www.youtube.com/watch?v=JnTa9XtvmfI&ab_channel=freeCodeCamp.org) | YouTube | Course | Mathematics | Free 
 
 <br>
+
+### Trigonometry & Precalculus
+
+>➕ &nbsp; An embedded software engineer should be able to read scientific trigonometric formulas.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Trigonometry & Precalculus | [Link](https://www.udemy.com/course/trig-by-krista-king/) | Udemy | Course | Mathematics | Paid 
+| Trigonometry & Precalculus | [Link](https://www.youtube.com/watch?v=eI4an8aSsgw&ab_channel=freeCodeCamp.org) | YouTube | Course | Mathematics | Free 
+
+<br>
+
+### Calculus I
+
+>➕ &nbsp; An embedded software engineer should be able to understand the backbone of mathetmaics, Calculus.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Calculus I | [Link](https://www.udemy.com/course/calculus1/) | Udemy | Course | Mathematics | Paid 
+| Calculus I | [Link](https://www.youtube.com/watch?v=HfACrKJ_Y2w&ab_channel=freeCodeCamp.org) | YouTube | Course | Mathematics | Free 
+
+<br>
+
+### Discrete Mathematics
+
+>➕ &nbsp; A must for every programmer, a need for algorithms & datastructures.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Discrete Mathematics | [Link](https://www.udemy.com/course/discrete-math/) | Udemy | Course | Mathematics | Paid 
+| Discrete Mathematics | [Link](https://www.youtube.com/watch?v=rdXw7Ps9vxc&list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS&ab_channel=Dr.TreforBazett) | YouTube | Course | Mathematics | Free 
+
+<br>
+
+### Number Theory
+
+>➕ &nbsp; A must for understanding the number systems and number conversions.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Number Theory | [Link](https://www.udemy.com/course/number-theory/) | Udemy | Course | Mathematics | Paid 
+| Number Theory | [Link](https://www.youtube.com/watch?v=Wg-JlvBVPi0&list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c&ab_channel=MichaelPenn) | YouTube | Course | Mathematics | Free 
+
+<br><hr><br>
 
 ![Electronics](https://user-images.githubusercontent.com/65850970/195017656-90d831e0-fbba-425a-9f78-20520ffe4eb0.png)
 
