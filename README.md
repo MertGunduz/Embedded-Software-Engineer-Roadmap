@@ -15,6 +15,13 @@
 ![Number_Theory](https://user-images.githubusercontent.com/65850970/195017008-e1360ba5-da63-4a58-a595-fcf9963266a5.svg)
 ![Graph_Theory](https://user-images.githubusercontent.com/65850970/195017185-2a495e78-ddf6-42d6-855f-2eb348a18c63.svg)
 
+### Algebra
+>➕ &nbsp; The foundation of math is the first thing an embedded engineer should know.
+
+| Title | Link | Platform | Type | Subject | Summary
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Algebra | [Link](https://www.udemy.com/course/integralcalc-algebra/) | Udemy | Course | Mathematics | Algebra is the branch of mathematics that helps in the representation of problems or situations in the form of mathematical expressions.
+
 <br>
 
 ![Electronics](https://user-images.githubusercontent.com/65850970/195017656-90d831e0-fbba-425a-9f78-20520ffe4eb0.png)
