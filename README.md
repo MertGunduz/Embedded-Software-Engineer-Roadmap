@@ -1,9 +1,10 @@
 ![EMBEDDED SOFTWARE ENGINEER ROADMAP](https://user-images.githubusercontent.com/65850970/195013064-c1f15975-7a1b-4a76-957e-dee7dc68a295.png)
-
+ 
 ☉ Languages: <strong>C/C++</strong> <br>
-☉ Sources: <strong>Udemy, YouTube, Articles</strong>
+☉ Sources: <strong>Udemy, YouTube</strong>
 
-<i>This roadmap gives general information about how to become an embedded software engineer. This repository is generally created for software developers/students who wanna become software engineers in embedded area.</i> <br> <br>
+<i>This roadmap is created for the people who wants to become an embedded software engineer but doesn't knows where to start.</i> <br> <br>
+<i>The roadmap includes some subjects about Mathematics, Electronics, Computer Architecture & Organization, Operating Systems, C Programming, C++ Programming, Microcontrollers.</i> <br> <br>
 
 ![Mathematics](https://user-images.githubusercontent.com/65850970/195015038-9605af93-8e73-4b31-9635-98bf144b36c2.png)
 
@@ -18,9 +19,20 @@
 ### Algebra
 >➕ &nbsp; The foundation of math is the first thing an embedded engineer should know.
 
-| Title | Link | Platform | Type | Subject | Summary
+| Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Algebra | [Link](https://www.udemy.com/course/integralcalc-algebra/) | Udemy | Course | Mathematics | Algebra is the branch of mathematics that helps in the representation of problems or situations in the form of mathematical expressions.
+| Algebra | [Link](https://www.udemy.com/course/integralcalc-algebra/) | Udemy | Course | Mathematics | Paid 
+| Algebra | [Link](https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO&ab_channel=DerekBanas) | Youtube | Course | Mathematics | Free 
+
+<br>
+
+### Linear Algebra
+>➕ &nbsp; An embedded software engineer should know linear optimization and linear programming.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Linear Algebra | [Link](https://www.udemy.com/course/linear-algebra-course/) | Udemy | Course | Mathematics | Paid 
+| Algebra | [Link](https://www.youtube.com/watch?v=JnTa9XtvmfI&ab_channel=freeCodeCamp.org) | Youtube | Course | Mathematics | Free 
 
 <br>
 
