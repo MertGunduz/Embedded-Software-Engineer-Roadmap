@@ -11,7 +11,6 @@
 ![Linear-Algbera](https://user-images.githubusercontent.com/65850970/195016124-6e3dbcee-6c9f-49ec-8602-36cb22db125f.svg)
 ![Trigonometry_And_Precalculus](https://user-images.githubusercontent.com/65850970/195016518-d4892dbf-df98-4488-a2c3-4977cbc9db9a.svg)
 ![Calculus_1](https://user-images.githubusercontent.com/65850970/195016666-2368707a-0e33-4cd7-9425-3329df62ac7a.svg)
-![Calculus_2](https://user-images.githubusercontent.com/65850970/195016759-cef00f0e-7f8d-46db-8ae5-0fabcc2196e4.svg)
 ![Discrete_Math](https://user-images.githubusercontent.com/65850970/195016904-93430f34-e63c-4f49-a7ce-943c2bf4a8c8.svg)
 ![Number_Theory](https://user-images.githubusercontent.com/65850970/195017008-e1360ba5-da63-4a58-a595-fcf9963266a5.svg)
 ![Graph_Theory](https://user-images.githubusercontent.com/65850970/195017185-2a495e78-ddf6-42d6-855f-2eb348a18c63.svg)
