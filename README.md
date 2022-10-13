@@ -244,11 +244,42 @@
 
 ![CPP Programming](https://user-images.githubusercontent.com/65850970/195020567-9a694130-45b7-4b48-a448-30c8f95194c2.png)
 
-![CPP_Programming](https://user-images.githubusercontent.com/65850970/195021840-6b37a243-12f8-4754-b7b0-afc51faa050e.svg)
-![CPP_Programming_Advanced](https://user-images.githubusercontent.com/65850970/195021856-38fe92d2-561c-43ef-ba1f-79b86e0a9707.svg)
-![CPP_Desktop_QT](https://user-images.githubusercontent.com/65850970/195022052-a1f9a42e-5c2f-46ac-ae07-fe0973ca35eb.svg)
+![CPP_Programming](https://user-images.githubusercontent.com/65850970/195645713-088022f5-1adf-40cd-9dfa-b2d2e602fc97.svg)
+![CPP_Datastructures_And_Algorithms](https://user-images.githubusercontent.com/65850970/195645727-5e5b5dee-0ad3-4a12-aa81-8fc2f55f46ca.svg)
+![CPP_Desktop_Development_QT](https://user-images.githubusercontent.com/65850970/195645735-8e858378-8858-4dc0-88ec-0b6bafe8ba6c.svg)
+
+### C++ Programming
+
+>➕ &nbsp; An embedded engineer should know how to write programs in C++.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C++ Programming | [Link](https://www.udemy.com/course/the-modern-cpp-20-masterclass/) | Udemy | Course | C++ Programming | Paid 
+| C++ Programming | [Link](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) | YouTube | Course | C++ Programming | Free 
 
 <br>
+
+### C++ Datastructures & Algorithms
+
+>➕ &nbsp; An embedded engineer should know how to integrate datastructures & algorithms into the programs.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C++ Datastructures & Algorithms | [Link](https://www.udemy.com/course/data-structures-algorithms-using-c-zero-to-mastery/) | Udemy | Course | C++ Programming | Paid 
+| C++ Datastructures & Algorithms | [Link](https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG&ab_channel=SimpleSnippets) | YouTube | Course | C++ Programming | Free 
+
+<br>
+
+### C++ Desktop Development (QT)
+
+>➕ &nbsp; An embedded engineer should know how to integrate datastructures & algorithms into the programs.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C++ Desktop Development (QT) | [Link](https://www.udemy.com/course/qt6-c-gui-widgets-tutorial-for-beginners/) | Udemy | Course | C++ Programming | Paid 
+| C++ Desktop Development (QT) | [Link](https://www.youtube.com/watch?v=EkjaiDsiM-Q&list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA&ab_channel=ProgrammingKnowledge) | YouTube | Course | C++ Programming | Free 
+
+<br><hr><br>
 
 ![Microcontrollers](https://user-images.githubusercontent.com/65850970/195054706-4f3b11fd-30d2-4b4c-bd85-1d901ddebe02.png)
 
