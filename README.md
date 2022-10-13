@@ -152,7 +152,45 @@
 ![Operating_Systems3](https://user-images.githubusercontent.com/65850970/195020050-3ed62f01-5044-4988-b316-b2648bbaa056.svg)
 ![Operating_Systems4](https://user-images.githubusercontent.com/65850970/195020055-f4c0962d-1688-40fb-807d-e0f91249d623.svg)
 
+### Operating Systems I 
+
+>➕ &nbsp; An embedded engineer should have a basic understanding of operating systems.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Operating Systems I | [Link](https://www.udemy.com/course/operating-systems-from-scratch-part1/) | Udemy | Course | Operating Systems | Paid 
+
 <br>
+
+### Operating Systems II
+
+>➕ &nbsp; An embedded engineer should have a basic understanding of operating systems.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Operating Systems II | [Link](https://www.udemy.com/course/operatingsystems/) | Udemy | Course | Operating Systems | Paid 
+
+<br>
+
+### Operating Systems III
+
+>➕ &nbsp; An embedded engineer should have a basic understanding of operating systems.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Operating Systems III | [Link](https://www.udemy.com/course/operating-systems-online-course/) | Udemy | Course | Operating Systems | Paid 
+
+<br>
+
+### Operating Systems IV
+
+>➕ &nbsp; An embedded engineer should have a basic understanding of operating systems.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Operating Systems IV | [Link](https://www.udemy.com/course/operating-systems-computer-science-course/) | Udemy | Course | Operating Systems | Paid 
+
+<br><hr><br>
 
 ![C Programming](https://user-images.githubusercontent.com/65850970/195020324-d7f376ce-6392-44fd-8340-ade6050772b2.png)
 
