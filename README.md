@@ -238,7 +238,7 @@
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | C Programming Datastructures & Algorithms | [Link](https://www.udemy.com/course/data-structures-stack-queue-linkedlist/) | Udemy | Course | C Programming | Paid 
-| C Programming Datastructures & Algorithms | [Link](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org) | YouTube | Course | C Programming | Free 
+| C Programming Datastructures & Algorithms | [Link](https://www.youtube.com/watch?v=B31LgI4Y4DQ&ab_channel=freeCodeCamp.org) | YouTube | Course | C Programming | Free 
 
 <br>
 
