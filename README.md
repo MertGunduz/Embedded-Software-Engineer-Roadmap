@@ -196,17 +196,67 @@
 
 ![C_Programming](https://user-images.githubusercontent.com/65850970/195021124-245e4a0b-aefa-43b2-9b92-699e327acfad.svg)
 ![C_Programming_Advanced](https://user-images.githubusercontent.com/65850970/195021145-b3ea4bcb-79a2-47a4-a568-159a8af15276.svg)
+![C_Programming_Advanced_Pointers](https://user-images.githubusercontent.com/65850970/195572298-68d1c545-e1b9-4d73-afe7-61886282c3e3.svg)
 ![C_Programming_DS_ALGO](https://user-images.githubusercontent.com/65850970/195021319-125e3ba6-7849-4fd5-89f9-21f125eaec5b.svg)
 ![C_CMake](https://user-images.githubusercontent.com/65850970/195054430-b9811055-5aa7-4bd3-8e6f-645b3c4c2bef.svg)
 
+### C Programming
+
+>➕ &nbsp; An embedded engineer should know how to write code with C.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C Programming | [Link](https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/) | Udemy | Course | C Programming | Paid 
+| C Programming | [Link](https://www.youtube.com/watch?v=Bz4MxDeEM6k&ab_channel=CalebCurry) | YouTube | Course | C Programming | Free 
 
 <br>
+
+### C Programming (Advanced)
+
+>➕ &nbsp; An embedded engineer should know how to implement high quality, industry-standard systems with C.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C Programming (Advanced) | [Link](https://www.udemy.com/course/c-programming-pointers-from-zero-to-hero/) | Udemy | Course | C Programming | Paid 
+
+<br>
+
+### C Programming Advanced Pointers
+
+>➕ &nbsp; An embedded engineer should know how to use pointers.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C Programming Advanced Pointers | [Link](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org) | YouTube | Course | C Programming | Free 
+
+<br>
+
+### C Programming Datastructures & Algorithms
+
+>➕ &nbsp; An embedded engineer should know how to implement datastructures and algorithms for programs.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C Programming Datastructures & Algorithms | [Link](https://www.udemy.com/course/data-structures-stack-queue-linkedlist/) | Udemy | Course | C Programming | Paid 
+| C Programming Datastructures & Algorithms | [Link](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org) | YouTube | Course | C Programming | Free 
+
+<br>
+
+### CMake
+
+>➕ &nbsp; An embedded engineer should know how to use the CMake tool.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| CMake | [Link](https://www.udemy.com/course/cmake-tests-and-tooling-for-cc-projects/) | Udemy | Course | C Programming | Paid 
+| CMake | [Link](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&ab_channel=Code%2CTech%2CandTutorials) | YouTube | Course | C Programming | Free 
+
+<br><hr><br>
 
 ![CPP Programming](https://user-images.githubusercontent.com/65850970/195020567-9a694130-45b7-4b48-a448-30c8f95194c2.png)
 
 ![CPP_Programming](https://user-images.githubusercontent.com/65850970/195021840-6b37a243-12f8-4754-b7b0-afc51faa050e.svg)
 ![CPP_Programming_Advanced](https://user-images.githubusercontent.com/65850970/195021856-38fe92d2-561c-43ef-ba1f-79b86e0a9707.svg)
-![CPP_Programming_DS_ALGO](https://user-images.githubusercontent.com/65850970/195021878-d9ed56a8-5dae-4543-a2d1-9472daa07702.svg)
 ![CPP_Desktop_QT](https://user-images.githubusercontent.com/65850970/195022052-a1f9a42e-5c2f-46ac-ae07-fe0973ca35eb.svg)
 
 <br>
