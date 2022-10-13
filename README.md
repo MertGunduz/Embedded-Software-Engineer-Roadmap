@@ -112,7 +112,38 @@
 ![Architecture2](https://user-images.githubusercontent.com/65850970/195019537-6d5ea249-8329-420c-81f5-0fcf8d583fbf.svg)
 ![Architecture3](https://user-images.githubusercontent.com/65850970/195019555-274692fa-7e3e-42d1-905c-61e6c1ca09ec.svg)
 
+### Computer Architecture & Organization I
+
+>➕ &nbsp; An embedded engineer should have a basic understanding of computer architecture.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Computer Architecture I | [Link](https://www.udemy.com/course/computer-architecture-computer-organization-course/) | Udemy | Course | Computer Architecture | Paid 
+| Computer Architecture I| [Link](https://www.youtube.com/watch?v=9nuAjYRbITQ&ab_channel=Nerd%27slesson) | YouTube | Course | Computer Architecture | Free 
+
 <br>
+
+### Computer Architecture & Organization II
+
+>➕ &nbsp; An embedded engineer should have a nice understanding of computer architecture.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Computer Architecture II | [Link](https://www.udemy.com/course/computer-architecture-organization-online-course/) | Udemy | Course | Computer Architecture | Paid 
+| Computer Architecture II | [Link](https://www.youtube.com/watch?v=foCkCSZXOt8&ab_channel=Nerd%27slesson) | YouTube | Course | Computer Architecture | Free 
+
+<br>
+
+### Computer Architecture & Organization III
+
+>➕ &nbsp; An embedded engineer should have a very good understanding of computer architecture.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Computer Architecture III | [Link](https://www.udemy.com/course/computer-organization-and-architecture-course/) | Udemy | Course | Computer Architecture | Paid 
+| Computer Architecture III | [Link](https://www.youtube.com/watch?v=BHMETwOXvWw&ab_channel=Nerd%27slesson) | YouTube | Course | Computer Architecture | Free 
+
+<br><hr><br>
 
 ![Operating Systems](https://user-images.githubusercontent.com/65850970/195019716-540e5699-16ca-463e-8b0b-2a3f25e4cde4.png)
 
