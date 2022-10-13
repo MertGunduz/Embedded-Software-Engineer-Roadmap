@@ -284,6 +284,5 @@
 ![Microcontrollers](https://user-images.githubusercontent.com/65850970/195054706-4f3b11fd-30d2-4b4c-bd85-1d901ddebe02.png)
 
 ![Microcontroller_Development](https://user-images.githubusercontent.com/65850970/195055295-5e814f45-b3df-4c12-9a07-cb35b26a760e.svg)
+![Microcontroller_Development_Advanced](https://user-images.githubusercontent.com/65850970/195713122-a98ee14f-8470-4996-b0b0-4c276176d56b.svg)
 ![Arduino](https://user-images.githubusercontent.com/65850970/195055304-4692e918-0dfa-448e-b4cf-074ef71646f8.svg)
-![RaspberryPi](https://user-images.githubusercontent.com/65850970/195055335-522f92e2-cdb6-49ef-8972-c4fcbf87dd44.svg)
-![STM32](https://user-images.githubusercontent.com/65850970/195055346-14f09a4b-e227-4dc0-88e2-cdd5dd5b6e9e.svg)
