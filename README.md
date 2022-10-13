@@ -272,7 +272,7 @@
 
 ### C++ Desktop Development (QT)
 
->➕ &nbsp; An embedded engineer should know how to integrate datastructures & algorithms into the programs.
+>➕ &nbsp; An embedded engineer should know how to develop embedded desktop applications.
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
