@@ -9,7 +9,6 @@
 ![Mathematics](https://user-images.githubusercontent.com/65850970/195015038-9605af93-8e73-4b31-9635-98bf144b36c2.png)
 
 ![Algebra](https://user-images.githubusercontent.com/65850970/195016282-b1a9d1ef-f41d-49cd-821e-2976664e2d80.svg)
-![Linear-Algbera](https://user-images.githubusercontent.com/65850970/195016124-6e3dbcee-6c9f-49ec-8602-36cb22db125f.svg)
 ![Trigonometry_And_Precalculus](https://user-images.githubusercontent.com/65850970/195016518-d4892dbf-df98-4488-a2c3-4977cbc9db9a.svg)
 ![Calculus_1](https://user-images.githubusercontent.com/65850970/195016666-2368707a-0e33-4cd7-9425-3329df62ac7a.svg)
 ![Discrete_Math](https://user-images.githubusercontent.com/65850970/195016904-93430f34-e63c-4f49-a7ce-943c2bf4a8c8.svg)
@@ -22,16 +21,6 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Algebra | [Link](https://www.udemy.com/course/integralcalc-algebra/) | Udemy | Course | Mathematics | Paid 
 | Algebra | [Link](https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO&ab_channel=DerekBanas) | YouTube | Course | Mathematics | Free 
-
-<br>
-
-### Linear Algebra
->➕ &nbsp; An embedded software engineer should know linear optimization and linear programming.
-
-| Title | Link | Platform | Type | Subject | Price 
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Linear Algebra | [Link](https://www.udemy.com/course/linear-algebra-course/) | Udemy | Course | Mathematics | Paid 
-| Linear Algebra | [Link](https://www.youtube.com/watch?v=JnTa9XtvmfI&ab_channel=freeCodeCamp.org) | YouTube | Course | Mathematics | Free 
 
 <br>
 
