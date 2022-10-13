@@ -164,7 +164,7 @@
 
 ### Operating Systems II
 
->➕ &nbsp; An embedded engineer should have a basic understanding of operating systems.
+>➕ &nbsp; An embedded engineer should have a nice understanding of operating systems.
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -174,7 +174,7 @@
 
 ### Operating Systems III
 
->➕ &nbsp; An embedded engineer should have a basic understanding of operating systems.
+>➕ &nbsp; An embedded engineer should have a good understanding of operating systems.
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -184,7 +184,7 @@
 
 ### Operating Systems IV
 
->➕ &nbsp; An embedded engineer should have a basic understanding of operating systems.
+>➕ &nbsp; An embedded engineer should have a very good and solid understanding of operating systems.
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
