@@ -287,3 +287,22 @@
 ![Microcontroller_Development_Advanced](https://user-images.githubusercontent.com/65850970/195713122-a98ee14f-8470-4996-b0b0-4c276176d56b.svg)
 ![Arduino](https://user-images.githubusercontent.com/65850970/195055304-4692e918-0dfa-448e-b4cf-074ef71646f8.svg)
 ![Arduino_Advanced](https://user-images.githubusercontent.com/65850970/195784218-b73f2e36-df40-4d3c-8a50-41c4519222ad.svg)
+
+### Microcontroller Development
+
+>➕ &nbsp; An embedded engineer should know how to implement code for microcontrollers.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Microcontroller Development | [Link](https://www.udemy.com/course/microcontroller-embedded-c-programming/) | Udemy | Course | Microcontroller Developnent | Paid 
+| Microcontroller Development | [Link](https://www.youtube.com/watch?v=auyP0oDcW20&list=PLQptsE6qQy8NmtF89dFbfWfTY0yQfxWCK&ab_channel=NerdyElectronics) | YouTube | Course | Microcontroller Development | Free 
+
+<br>
+
+### Microcontroller Development (Advanced)
+
+>➕ &nbsp; An embedded engineer should know how to implement code for microcontrollers.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Microcontroller Development (Advanced) | [Link](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/) | Udemy | Course | Microcontroller Developnent | Paid
