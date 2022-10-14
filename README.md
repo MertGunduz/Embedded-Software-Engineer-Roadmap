@@ -294,8 +294,8 @@
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Microcontroller Development | [Link](https://www.udemy.com/course/microcontroller-embedded-c-programming/) | Udemy | Course | Microcontroller Developnent | Paid 
-| Microcontroller Development | [Link](https://www.youtube.com/watch?v=auyP0oDcW20&list=PLQptsE6qQy8NmtF89dFbfWfTY0yQfxWCK&ab_channel=NerdyElectronics) | YouTube | Course | Microcontroller Development | Free 
+| Microcontroller Development | [Link](https://www.udemy.com/course/microcontroller-embedded-c-programming/) | Udemy | Course | Microcontrollers | Paid 
+| Microcontroller Development | [Link](https://www.youtube.com/watch?v=auyP0oDcW20&list=PLQptsE6qQy8NmtF89dFbfWfTY0yQfxWCK&ab_channel=NerdyElectronics) | YouTube | Course | Microcontrollers | Free 
 
 <br>
 
@@ -305,4 +305,4 @@
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Microcontroller Development (Advanced) | [Link](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/) | Udemy | Course | Microcontroller Developnent | Paid
+| Microcontroller Development (Advanced) | [Link](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/) | Udemy | Course | Microcontrollers | Paid
