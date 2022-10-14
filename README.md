@@ -301,8 +301,29 @@
 
 ### Microcontroller Development (Advanced)
 
->➕ &nbsp; An embedded engineer should know how to implement code for microcontrollers.
+>➕ &nbsp; An embedded engineer should know how to implement advanced systems for microcontrollers and embedded systems.
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Microcontroller Development (Advanced) | [Link](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/) | Udemy | Course | Microcontrollers | Paid
+
+<br>
+
+### Arduino
+
+>➕ &nbsp; An embedded engineer should know programming arduino cards.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Arduino | [Link](https://www.udemy.com/course/arduino-sbs-17gs/) | Udemy | Course | Microcontrollers | Paid 
+| Arduino | [Link](https://www.youtube.com/watch?v=EdXQUEMOfgU&list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr&ab_channel=CoreElectronics) | YouTube | Course | Microcontrollers | Free 
+
+<br>
+
+### Arduino (Advanced)
+
+>➕ &nbsp; An embedded engineer should know programming advanced arduino cards.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Arduino (Advanced) | [Link](https://www.udemy.com/course/arduino-sbs-getting-serious/) | Udemy | Course | Microcontrollers | Paid 
