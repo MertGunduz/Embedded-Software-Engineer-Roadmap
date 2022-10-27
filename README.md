@@ -181,6 +181,33 @@
 
 <br><hr><br>
 
+![Linux](https://user-images.githubusercontent.com/65850970/198217000-55d1ddc6-ccfe-413f-b158-dd664388c3d7.png)
+
+![Linux_Administration](https://user-images.githubusercontent.com/65850970/198218454-ca1ac935-278f-44f0-b829-6ecf8fb7f192.svg)
+![Bash_Scripting](https://user-images.githubusercontent.com/65850970/198218461-09dff2b7-23fc-44cb-8e53-97aa5ee07c5d.svg)
+
+### Linux Administration
+
+>➕ &nbsp; An embedded engineer should know linux and its ecosystem.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Linux Administration | [Link](https://www.udemy.com/course/master-linux-administration/) | Udemy | Course | Linux | Paid 
+| Linux Administration | [Link](https://www.youtube.com/watch?v=p8QOnty6rSU&list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW&ab_channel=LearnLinuxTV) | YouTube | Course | Linux | Free 
+
+<br>
+
+### Bash Scripting
+
+>➕ &nbsp; An embedded engineer should know to write bash scripts.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Bash Scripting | [Link](https://www.udemy.com/course/complete-bash-shell-scripting-b/) | Udemy | Course | Linux | Paid 
+| Bash Scripting | [Link](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_&ab_channel=ProgrammingKnowledge) | YouTube | Course | Linux | Free 
+
+<br><hr><br>
+
 ![C Programming](https://user-images.githubusercontent.com/65850970/195020324-d7f376ce-6392-44fd-8340-ade6050772b2.png)
 
 ![C_Programming](https://user-images.githubusercontent.com/65850970/195021124-245e4a0b-aefa-43b2-9b92-699e327acfad.svg)
