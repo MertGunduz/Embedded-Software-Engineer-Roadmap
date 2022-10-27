@@ -4,7 +4,7 @@
 ☉ Sources: <strong>Udemy, YouTube</strong>
 
 <i>This roadmap is created for the people who wants to become an embedded software engineer but doesn't knows where to start.</i> <br> <br>
-<i>The roadmap includes some subjects about Mathematics, Electronics, Computer Architecture & Organization, Operating Systems, C Programming, C++ Programming, Microcontrollers.</i> <br> <br>
+<i>The roadmap includes some subjects about Mathematics, Electronics, Computer Architecture & Organization, Operating Systems, Linux, C Programming, C++ Programming, Microcontrollers.</i> <br> <br>
 
 ![Mathematics](https://user-images.githubusercontent.com/65850970/195015038-9605af93-8e73-4b31-9635-98bf144b36c2.png)
 
