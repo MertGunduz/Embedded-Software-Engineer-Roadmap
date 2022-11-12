@@ -64,7 +64,7 @@
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Number Theory | [Link](https://www.udemy.com/course/number-theory/) | Udemy | Course | Mathematics | Paid 
-| Number Theory | [Link](https://www.youtube.com/watch?v=Wg-JlvBVPi0&list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c&ab_channel=MichaelPenn) | YouTube | Course | Mathematics | Free 
+| Number Theory | [Link](https://www.youtube.com/watch?v=IaLUBNw_We4&list=PL22w63XsKjqwn2V9CiP7cuSGv9plj71vv) | YouTube | Course | Mathematics | Free 
 
 <br><hr><br>
 
