@@ -22,8 +22,6 @@
 | Algebra | [Link](https://www.udemy.com/course/integralcalc-algebra/) | Udemy | Course | Mathematics | Paid 
 | Algebra | [Link](https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO&ab_channel=DerekBanas) | YouTube | Course | Mathematics | Free 
 
-[Mathematics](https://github.com/MertGunduz/Embedded-Software-Engineer-Roadmap/blob/main/Mathematics.md)
-
 <br>
 
 ### Trigonometry & Precalculus
