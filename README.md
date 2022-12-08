@@ -354,3 +354,18 @@
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Arduino (Advanced) | [Link](https://www.udemy.com/course/arduino-sbs-getting-serious/) | Udemy | Course | Microcontrollers | Paid 
+
+<br><hr><br>
+
+![Git](https://user-images.githubusercontent.com/65850970/206426843-e3ab2297-7c2e-45d1-a5de-1e29df31af84.png)
+
+![Git_And_Github](https://user-images.githubusercontent.com/65850970/206428797-784bbe3b-ca89-4256-9caf-8da3729a8c66.svg)
+
+### Git & Github
+
+>➕ &nbsp; An embedded engineer should be able to work with a team by using git and github.
+
+| Title | Link | Platform | Type | Subject | Price 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Git & Github | [Link](https://www.udemy.com/course/git-and-github-complete-guide/) | Udemy | Course | Git & Github | Paid 
+| Git & Github | [Link](https://www.youtube.com/watch?v=vMdSqMf6BPY&list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX) | YouTube | Course | Git & Github | Free 
