@@ -3,7 +3,7 @@
 ☉ Languages: <strong>C/C++</strong> <br>
 ☉ Sources: <strong>Udemy, YouTube</strong>
 
-<i>This roadmap is created for the people who wants to become an embedded software engineer but doesn't knows where to start.</i> <br> <br>
+<i>This roadmap is created for the people who wants to become an embedded software engineer but doesn't know where to start.</i> <br> <br>
 <i>The roadmap includes some subjects about Mathematics, Electronics, Computer Architecture & Organization, Operating Systems, Linux, C Programming, C++ Programming, Microcontrollers.</i> <br> <br>
 
 ![Mathematics](https://user-images.githubusercontent.com/65850970/195015038-9605af93-8e73-4b31-9635-98bf144b36c2.png)
@@ -37,7 +37,7 @@
 
 ### Calculus I
 
->➕ &nbsp; An embedded software engineer should be able to understand the backbone of mathetmaics, Calculus.
+>➕ &nbsp; An embedded software engineer should be able to understand the backbone of mathematics, Calculus.
 
 | Title | Link | Platform | Type | Subject | Price 
 |:---:|:---:|:---:|:---:|:---:|:---:|
