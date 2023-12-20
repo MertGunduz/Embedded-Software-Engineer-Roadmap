@@ -29,14 +29,14 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ## 🗓 Semesters Overview
 
-### [Semester 1](semesters/sem1.md)
+### <a href="semesters/sem1.md" target="_blank"><u>Semester 1</u></a>
 1. **Introduction to Programming** - Basics of programming using languages like C or Python.
 2. **Calculus I** - Fundamental calculus concepts.
 3. **Physics I** - Basic mechanics and wave motion.
 4. **Electronics Fundamentals** - Introduction to electronic components and circuits.
 5. **English Composition** - Focus on academic writing and communication skills.
 
-### Semester 2
+### <a href="semesters/sem2.md" target="_blank"><u>Semester 2</u></a>
 1. **Data Structures and Algorithms** - Fundamental data structures (lists, stacks, queues) and algorithms.
 2. **Calculus II** - Advanced calculus including integrals and series.
 3. **Physics II** - Electricity and magnetism.
