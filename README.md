@@ -29,57 +29,57 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 🏁 First Semester
 
-- **CALCULUS I**
-- **INTRODUCTION TO COMPUTER ENGINEERING CONCEPTS**
-- **INTRODUCTION TO INFORMATION TECHNOLOGIES AND APPLICATIONS**
+- **Calculus I**
+- **Introduction to Computer Engineering Concepts**
+- **Introduction to Information Technologies and Applications**
 
 ### 🚀 Second Semester
 
-- **CALCULUS II**
-- **CAREER PLANNING**
-- **BASIC LINEAR ALGEBRA**
-- **C PROGRAMMING BASICS**
-- **ENGLISH FOR ACADEMIC PURPOSES II**
+- **Calculus II**
+- **Career Planning**
+- **Basic Linear Algebra**
+- **C Programming Basics**
+- **English for Academic Purposes II**
 
 ### 🔢 Third Semester
 
-- **DIFFERENTIAL EQUATIONS**
-- **ELECTRICAL CIRCUITS**
-- **DATA STRUCTURES**
-- **DISCRETE COMPUTATIONAL STRUCTURES**
-- **ACADEMIC ORAL PRESENTATION SKILLS**
+- **Differential Equations**
+- **Electrical Circuits**
+- **Data Structures**
+- **Discrete Computational Structures**
+- **Academic Oral Presentation Skills**
 
 ### 💡 Fourth Semester
 
-- **STATISTICAL METHODS FOR COMPUTER ENGINEERING**
-- **LOGIC DESIGN**
-- **PROGRAMMING LANGUAGE CONCEPTS**
-- **FORMAL LANGUAGES AND ABSTRACT MACHINES**
+- **Statistical Methods for Computer Engineering**
+- **Logic Design**
+- **Programming Language Concepts**
+- **Formal Languages and Abstract Machines**
 
 ### 🌞 Fifth Semester
 
-- **SUMMER PRACTICE I**
-- **ALGORITHMS**
-- **COMPUTER ORGANIZATION**
-- **DATA MANAGEMENT AND FILE STRUCTURES**
-- **OCCUPATIONAL HEALTH AND SAFETY-II**
+- **Summer Practice I**
+- **Algorithms**
+- **Computer Organization**
+- **Data Management and File Structures**
+- **Occupational Health and Safety-II**
 
 ### 🖥️ Sixth Semester
 
-- **INTRODUCTION TO OPERATING SYSTEMS**
-- **INTRODUCTION TO EMBEDDED SYSTEMS DEVELOPMENT**
-- **SOFTWARE ENGINEERING**
-- **SIGNALS AND SYSTEMS FOR COMPUTER ENGINEERS**
+- **Introduction to Operating Systems**
+- **Introduction to Embedded Systems Development**
+- **Software Engineering**
+- **Signals and Systems for Computer Engineers**
 
 ### 🌅 Seventh Semester
 
-- **SUMMER PRACTICE II**
-- **DATA COMMUNICATIONS AND NETWORKING**
-- **INTRODUCTION TO COMPUTER GRAPHICS**
-- **COMPUTER ENGINEERING DESIGN I**
+- **Summer Practice II**
+- **Data Communications and Networking**
+- **Introduction to Computer Graphics**
+- **Computer Engineering Design I**
 
 ### 🎓 Eighth Semester
 
-- **COMPUTER ENGINEERING DESIGN II**
+- **Computer Engineering Design II**
 - **Free Elective**
 - **Technical Electives**
