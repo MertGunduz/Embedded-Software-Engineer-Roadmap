@@ -6,7 +6,7 @@
 - **C/C++**
 
 ## Learning Sources
-- **Udemy, YouTube**
+- **Udemy, YouTube, Books**
 
 ## Overview
 This roadmap is created for individuals aspiring to become embedded software engineers but uncertain about where to start. It encompasses various subjects, including Mathematics, Electronics, Computer Architecture & Organization, Operating Systems, Linux, C Programming, C++ Programming, and Microcontrollers.
