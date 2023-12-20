@@ -3,7 +3,7 @@
 Welcome to your first semester! Here's a brief overview of the courses you'll be taking:
 
 ## Introduction to Programming
-- **Description**: Basics of programming using languages like C or Python.
+- **Description**: Basics of programming using C Programming Language.
 - **Key Topics**:
   - Introduction to Programming Concepts
   - Basic Syntax and Structure in C
