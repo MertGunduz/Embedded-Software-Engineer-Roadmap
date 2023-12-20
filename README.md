@@ -29,9 +29,9 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 🏁 First Semester
 
-- ** CALCULUS I**
-- ** INTRODUCTION TO COMPUTER ENGINEERING CONCEPTS**
-- ** INTRODUCTION TO INFORMATION TECHNOLOGIES AND APPLICATIONS**
+- **CALCULUS I**
+- **INTRODUCTION TO COMPUTER ENGINEERING CONCEPTS**
+- **INTRODUCTION TO INFORMATION TECHNOLOGIES AND APPLICATIONS**
 
 ### 🚀 Second Semester
 
