@@ -1,10 +1,4 @@
-Thank you for providing the second article. I will now create a README file that incorporates both the embedded software engineer roadmap and the detailed course curriculum.
-
----
-
-# Embedded Software Engineer Roadmap and Computer Engineering Curriculum
-
-## Embedded Software Engineer Roadmap
+# Embedded Software Engineer Roadmap
 
 ![EMBEDDED SOFTWARE ENGINEER ROADMAP](https://user-images.githubusercontent.com/65850970/195013064-c1f15975-7a1b-4a76-957e-dee7dc68a295.png)
 
@@ -41,11 +35,3 @@ This roadmap is created for individuals aspiring to become embedded software eng
 - TECHNICAL ELECTIVE
 - TECHNICAL ELECTIVE
 - TECHNICAL ELECTIVE
-
----
-
-**Note:** The provided curriculum is comprehensive, covering various aspects of computer engineering, from basic sciences to specialized computer engineering courses. This curriculum complements the embedded software engineer roadmap by providing a detailed academic path for aspiring engineers.
-
----
-
-Please let me know if you need any changes or additional information included in this README file.
