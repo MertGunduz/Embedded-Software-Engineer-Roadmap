@@ -1,4 +1,4 @@
-# 🚀 Embedded Software Engineer Roadmap 🚀
+# 🚀 Embedded Software Engineer Roadmap
 
 🌟 This roadmap is designed for individuals aspiring to become embedded software engineers. It provides a structured path through various subjects essential for the field.
 
