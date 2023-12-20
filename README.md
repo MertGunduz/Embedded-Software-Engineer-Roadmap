@@ -2,16 +2,16 @@
 
 ![EMBEDDED SOFTWARE ENGINEER ROADMAP](https://user-images.githubusercontent.com/65850970/195013064-c1f15975-7a1b-4a76-957e-dee7dc68a295.png)
 
-### Key Languages
+## Key Languages
 - **C/C++**
 
-### Learning Sources
+## Learning Sources
 - **Udemy, YouTube**
 
-### Overview
+## Overview
 This roadmap is created for individuals aspiring to become embedded software engineers but uncertain about where to start. It encompasses various subjects, including Mathematics, Electronics, Computer Architecture & Organization, Operating Systems, Linux, C Programming, C++ Programming, and Microcontrollers.
 
-### Curriculum Hyperlinks
+## Curriculum Hyperlinks
 1. [First Semester](#first-semester)
 2. [Second Semester](#second-semester)
 3. [Third Semester](#third-semester)
