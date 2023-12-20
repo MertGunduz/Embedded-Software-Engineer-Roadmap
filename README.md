@@ -18,7 +18,7 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 📎 Curriculum Hyperlinks
 
-1. [📚 First Semester](#first-semester)
+1. [🗒️ First Semester](#first-semester)
 2. [📘 Second Semester](#second-semester)
 3. [📙 Third Semester](#third-semester)
 4. [📗 Fourth Semester](#fourth-semester)
