@@ -24,7 +24,10 @@
 - **Recommended Books**:
   - "Calculus: Early Transcendentals" by James Stewart
   - "Calculus" by Michael Spivak
-
+- **Recommended Courses**:
+  - [Calculus I by Krista King](https://www.udemy.com/course/calculus1/)
+  - [Calculus I by Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
+    
 ### 🌌 Physics I - Basic Mechanics and Wave Motion
 - **Overview**: Explore the principles of mechanics and wave motion, essential for understanding physical phenomena in technology.
 - **Topics Covered**:
