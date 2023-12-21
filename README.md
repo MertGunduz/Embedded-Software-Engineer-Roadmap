@@ -69,4 +69,3 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 1. **Wireless Communication Systems** - Principles of wireless communication technologies.
 2. **Embedded Systems Security** - Security issues specific to embedded systems.
 3. **Advanced Topics in Embedded Systems** - Covering current trends and research.
-4. **Open Source Project** - Create an open source embedded software project.
