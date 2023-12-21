@@ -1,33 +1,50 @@
-# Semester 1 Course Outline
+# 📕 Semester 1
 
-Welcome to your first semester! Here's a brief overview of the courses you'll be taking:
+### 🖥️ Introduction to Programming - Basics of Programming using C Programming Language
+- **Overview**: Dive into the world of programming with a focus on the C language, a cornerstone for embedded systems.
+- **Topics Covered**:
+  - 📝 Syntax and Structure: Mastering C syntax, data types, and structures.
+  - 🔄 Control Structures: Exploring if-else statements, loops, and control flow.
+  - 🛠️ Functions: Crafting and using functions for effective code development.
+  - 🔍 Pointers: Demystifying pointers, a pivotal concept in C.
+  - 💾 Memory Management: Fundamentals of dynamic memory allocation.
+- **Projects**: Building simple applications and introductory embedded system tasks.
+- **Recommended Books**:
+  - "C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
+  - "C Primer Plus" by Stephen Prata
 
-## Introduction to Programming
-- **Description**: Basics of programming using C Programming Language.
-- **Key Topics**:
-  - Introduction to Programming Concepts
-  - Basic Syntax and Structure in C
-  - Problem Solving and Algorithm Development
+### 📚 Calculus I - Fundamental Calculus Concepts
+- **Overview**: Embrace the essential concepts of calculus, key to solving complex mathematical challenges.
+- **Topics Covered**:
+  - 🚀 Limits and Continuity: Grasping limits and continuous functions.
+  - 📈 Derivatives: Techniques of differentiation and applications.
+  - 🔗 Integration: Fundamental integration techniques.
+  - 🌍 Applications: Calculus in physics and engineering.
+- **Projects**: Tackling problem sets with real-world calculus applications.
+- **Recommended Books**:
+  - "Calculus: Early Transcendentals" by James Stewart
+  - "Calculus" by Michael Spivak
 
-## Calculus I
-- **Description**: Fundamental calculus concepts.
-- **Key Topics**:
-  - Limits and Continuity
-  - Differentiation
-  - Integration
-  - Applications of Calculus in Real-world Problems
+### 🌌 Physics I - Basic Mechanics and Wave Motion
+- **Overview**: Explore the principles of mechanics and wave motion, essential for understanding physical phenomena in technology.
+- **Topics Covered**:
+  - 🏃 Kinematics: Analyzing motion.
+  - 💪 Dynamics: Forces and motion.
+  - 📊 Energy and Work: Work, energy, and power dynamics.
+  - 🌊 Wave Motion: Exploring sound and light waves.
+- **Projects**: Experiments and simulations in physical principles.
+- **Recommended Books**:
+  - "Fundamentals of Physics" by David Halliday, Robert Resnick, and Jearl Walker
+  - "University Physics with Modern Physics" by Hugh D. Young and Roger A. Freedman
 
-## Physics I
-- **Description**: Basic mechanics and wave motion.
-- **Key Topics**:
-  - Newton's Laws of Motion
-  - Conservation of Energy and Momentum
-  - Oscillations and Waves
-  - Applications in Everyday Physics
-
-## Electronics Fundamentals
-- **Description**: Introduction to electronic components and circuits.
-- **Key Topics**:
-  - Basic Electronic Components (Resistors, Capacitors, Diodes, etc.)
-  - Circuit Theory and Analysis
-  - Practical Circuit Building and Testing
+### 🔌 Electronics Fundamentals - Introduction to Electronic Components and Circuits
+- **Overview**: Get hands-on with electronic components and circuits, the building blocks of embedded systems.
+- **Topics Covered**:
+  - 🔧 Basic Components: Delving into resistors, capacitors, and more.
+  - 📐 Circuit Theory: Learning Ohm’s Law and circuit analysis.
+  - 🖥️ Digital Electronics: Understanding digital circuits and logic gates.
+  - 🎨 Circuit Design: Techniques for analog and digital circuit design.
+- **Projects**: Crafting and testing basic circuits.
+- **Recommended Books**:
+  - "Practical Electronics for Inventors" by Paul Scherz and Simon Monk
+  - "The Art of Electronics" by Paul Horowitz and Winfield Hill
