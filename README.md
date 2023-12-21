@@ -19,13 +19,13 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 ### 📎 Curriculum Hyperlinks
 
 1. [🗒️ Semester 1](#%EF%B8%8F-semester-1)
-2. [📘 Semester 2](#-semester-2)
-3. [📙 Semester 3](#-semester-3)
-4. [📗 Semester 4](#-semester-4)
-5. [📒 Semester 5](#-semester-5)
-6. [📓 Semester 6](#-semester-6)
-7. [📔 Semester 7](#-semester-7)
-8. [📕 Semester 8](#-semester-8)
+2. [📘 Semester 2](#-semester-2-)
+3. [📙 Semester 3](#-semester-3-)
+4. [📗 Semester 4](#-semester-4-)
+5. [📒 Semester 5](#-semester-5-)
+6. [📓 Semester 6](#-semester-6-)
+7. [📔 Semester 7](#-semester-7-)
+8. [📕 Semester 8](#-semester-8-)
 
 ## 🗓 Semesters Overview
 
