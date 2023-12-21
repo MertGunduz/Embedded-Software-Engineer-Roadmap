@@ -18,7 +18,7 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 📎 Curriculum Hyperlinks
 
-1. [🗒️ Semester 1](#🗒️-semester-1)
+1. [🗒️ Semester 1](#semester-1)
 2. [📘 Semester 2](#semester-2)
 3. [📙 Semester 3](#semester-3)
 4. [📗 Semester 4](#semester-4)
@@ -29,7 +29,7 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ## 🗓 Semesters Overview
 
-### [🗒️ Semester 1](semesters/sem1.md)
+### 🗒️ [Semester 1](semesters/sem1.md)
 
 1. **Introduction to Programming** - Basics of programming using languages like C or Python.
 2. **Calculus I** - Fundamental calculus concepts.
