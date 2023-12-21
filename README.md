@@ -42,9 +42,8 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 📙 [Semester 3 🔍](semesters/sem3.md)
 1. **Object-Oriented Programming** - Concepts of OOP using languages like Java or C++.
-2. **Linear Algebra and Differential Equations** - Matrices, determinants, and differential equations.
-3. **Microcontroller Theory and Applications** - Introduction to microcontrollers, programming, and applications.
-4. **Circuit Analysis** - Analyzing complex circuits using methods like Kirchhoff's laws.
+2. **Microcontroller Theory and Applications** - Introduction to microcontrollers, programming, and applications.
+3. **Circuit Analysis** - Analyzing complex circuits using methods like Kirchhoff's laws.
 
 ### 📗 [Semester 4 🔍](semesters/sem4.md)
 1. **Computer Organization and Architecture** - Detailed study of computer architecture, memory, and processors.
