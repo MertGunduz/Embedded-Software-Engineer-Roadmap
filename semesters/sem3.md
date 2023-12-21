@@ -12,18 +12,6 @@
   - "Effective Java" by Joshua Bloch (for Java)
   - "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo (for C++)
 
-### 🔢 Linear Algebra and Differential Equations
-- **Overview**: Understand the mathematical foundations essential for complex engineering and programming tasks.
-- **Topics Covered**:
-  - 🎲 Matrices and Determinants: Basics of matrices, operations, and determinants.
-  - 📐 Vector Spaces: Exploring the properties of vector spaces.
-  - 📉 Differential Equations: Techniques for solving various types of differential equations.
-  - 🚀 Applications: Real-world applications in physics and engineering.
-- **Projects**: Applying concepts to solve mathematical problems and case studies.
-- **Recommended Books**:
-  - "Linear Algebra and Its Applications" by David C. Lay
-  - "Differential Equations and Linear Algebra" by Gilbert Strang
-
 ### 🎛️ Microcontroller Theory and Applications
 - **Overview**: Delve into the world of microcontrollers, understanding their programming and practical applications.
 - **Topics Covered**:
