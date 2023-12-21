@@ -49,8 +49,7 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 1. **Computer Organization and Architecture** - Detailed study of computer architecture, memory, and processors.
 2. **Embedded C Programming** - In-depth study of C programming for embedded systems.
 3. **Signals and Systems** - Analysis of continuous and discrete time signals.
-4. **Probability and Statistics for Engineers** - Basic probability theory and statistics.
-5. **Electromagnetic Fields and Waves** - Study of electromagnetic theory and applications.
+4. **Electromagnetic Fields and Waves** - Study of electromagnetic theory and applications.
 
 ### 📒 [Semester 5 🔍](semesters/sem5.md)
 1. **Real-Time Operating Systems** - Concepts of RTOS, scheduling, and resource management.
