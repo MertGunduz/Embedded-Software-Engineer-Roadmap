@@ -13,6 +13,8 @@
   - "C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
   - "C Primer Plus" by Stephen Prata
 
+<br>
+
 ### 📚 Calculus I - Fundamental Calculus Concepts
 - **Overview**: Embrace the essential concepts of calculus, key to solving complex mathematical challenges.
 - **Topics Covered**:
@@ -27,7 +29,9 @@
 - **Recommended Courses**:
   - [Calculus I by Krista King](https://www.udemy.com/course/calculus1/)
   - [Calculus I by Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
-    
+
+<br>
+  
 ### 🌌 Physics I - Basic Mechanics and Wave Motion
 - **Overview**: Explore the principles of mechanics and wave motion, essential for understanding physical phenomena in technology.
 - **Topics Covered**:
@@ -39,6 +43,8 @@
 - **Recommended Books**:
   - "Fundamentals of Physics" by David Halliday, Robert Resnick, and Jearl Walker
   - "University Physics with Modern Physics" by Hugh D. Young and Roger A. Freedman
+
+<br>
 
 ### 🔌 Electronics Fundamentals - Introduction to Electronic Components and Circuits
 - **Overview**: Get hands-on with electronic components and circuits, the building blocks of embedded systems.
