@@ -24,18 +24,6 @@
   - "Programming Embedded Systems in C and C++" by Michael Barr
   - "Embedded C Programming and the Microchip PIC" by Richard H. Barnett, Sarah Cox, and Larry O'Cull
 
-### 🌊 Signals and Systems
-- **Overview**: Explore the fundamental concepts in analyzing continuous and discrete-time signals and systems.
-- **Topics Covered**:
-  - 📉 Signal Representation: Understanding various types of signals in time and frequency domains.
-  - 🔄 System Analysis: Techniques for analyzing LTI (Linear Time-Invariant) systems.
-  - 📶 Fourier Analysis: Studying Fourier series and Fourier transform for signal analysis.
-  - 📡 Digital Signal Processing: Basics of DSP and its applications.
-- **Projects**: Analyzing real-world signals and designing basic filtering systems.
-- **Recommended Books**:
-  - "Signals and Systems" by Alan V. Oppenheim, Alan S. Willsky, with S. Hamid
-  - "Digital Signal Processing" by John G. Proakis and Dimitris K Manolakis
-
 ### 📡 Electromagnetic Fields and Waves
 - **Overview**: Delve into the principles of electromagnetic theory and its applications in modern technology.
 - **Topics Covered**:
