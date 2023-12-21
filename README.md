@@ -18,14 +18,13 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 📎 Curriculum Hyperlinks
 
-1. [🗒️ Semester 1](#%EF%B8%8F-semester-1-)
+1. [📕 Semester 1](#%EF%B8%8F-semester-1-)
 2. [📘 Semester 2](#-semester-2-)
 3. [📙 Semester 3](#-semester-3-)
 4. [📗 Semester 4](#-semester-4-)
 5. [📒 Semester 5](#-semester-5-)
 6. [📓 Semester 6](#-semester-6-)
 7. [📔 Semester 7](#-semester-7-)
-8. [📕 Semester 8](#-semester-8-)
 
 ## 🗓 Semesters Overview
 
@@ -69,12 +68,6 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 📔 [Semester 7 🔍](semesters/sem7.md)
 1. **Wireless Communication Systems** - Principles of wireless communication technologies.
-2. **Machine Learning for Embedded Systems** - Applying ML techniques in embedded systems.
-3. **Senior Design Project I** - Start of a capstone project in embedded systems.
-4. **Elective** - Advanced elective in a specialized area of interest.
-
-### 📕 [Semester 8 🔍](semesters/sem8.md)
-1. **Senior Design Project II** - Completion of the capstone project.
 2. **Embedded Systems Security** - Security issues specific to embedded systems.
 3. **Advanced Topics in Embedded Systems** - Covering current trends and research.
-4. **Career Development** - Preparing for the job market and career planning.
+4. **Open Source Project** - Create an open source embedded software project.
