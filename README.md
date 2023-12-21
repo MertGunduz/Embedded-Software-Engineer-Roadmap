@@ -30,7 +30,7 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 
 ### 📕 [Semester 1 🔍](semesters/sem1.md)
 
-1. **Introduction to Programming** - Basics of programming using languages like C or Python.
+1. **Introduction to Programming** - Basics of programming using C Programming Language.
 2. **Calculus I** - Fundamental calculus concepts.
 3. **Physics I** - Basic mechanics and wave motion.
 4. **Electronics Fundamentals** - Introduction to electronic components and circuits.
