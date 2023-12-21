@@ -1,6 +1,6 @@
 # 📕 Semester 1
 
-### 🖥️ Introduction to Programming - Basics of Programming using C Programming Language
+### 🖥️ Introduction to Programming - Basics of Programming using C
 - **Overview**: Dive into the world of programming with a focus on the C language, a cornerstone for embedded systems.
 - **Topics Covered**:
   - 📝 Syntax and Structure: Mastering C syntax, data types, and structures.
