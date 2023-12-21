@@ -1,32 +1,25 @@
+# 📔 Semester 7 
 
-# Semester 7 Course Outline
+### 📡 Wireless Communication Systems
+- **Overview**: Delve into the principles and technologies underpinning wireless communication systems.
+- **Topics Covered**:
+  - 🌐 Signal Transmission: Understanding the basics of wireless signal transmission and reception.
+  - 📶 Communication Technologies: Exploring various wireless technologies like WiFi, Bluetooth, and cellular networks.
+  - 🔒 Security in Wireless Systems: Addressing security challenges unique to wireless communications.
+  - 📡 Antenna and Wave Propagation: Basics of antenna design and signal propagation techniques.
+- **Projects**: Designing and simulating simple wireless communication models.
+- **Recommended Books**:
+  - "Wireless Communications" by Andreas F. Molisch
+  - "Modern Wireless Communications" by Simon Haykin and Michael Moher
 
-Your seventh semester is an exciting blend of advanced topics and practical experience:
-
-## Wireless Communication Systems
-- **Description**: Principles of wireless communication technologies.
-- **Key Topics**:
-  - Basics of Wireless Communication
-  - Modern Wireless Communication Technologies and Standards
-  - Design and Implementation of Wireless Systems
-
-## Embedded Systems Security
-- **Description**: Security issues specific to embedded systems.
-- **Key Topics**:
-  - Principles of Embedded Systems Security
-  - Threats and Vulnerabilities in Embedded Systems
-  - Designing Secure Embedded Systems
-
-## Machine Learning for Embedded Systems
-- **Description**: Applying ML techniques in embedded systems.
-- **Key Topics**:
-  - Fundamentals of Machine Learning
-  - Implementing Machine Learning Algorithms on Embedded Systems
-  - Applications of ML in Embedded Systems
-
-## Senior Design Project I
-- **Description**: Start of a capstone project in embedded systems.
-- **Key Topics**:
-  - Project Planning and Design
-  - Research and Development of Embedded Systems
-  - Real-world Application and Prototyping
+### 🔒 Embedded Systems Security
+- **Overview**: Focus on the security aspects specific to embedded systems, a critical area in modern technology applications.
+- **Topics Covered**:
+  - 🛡️ Threat Analysis: Identifying potential threats and vulnerabilities in embedded systems.
+  - 🔐 Cryptography in Embedded Systems: Implementing cryptographic methods in resource-constrained environments.
+  - 🖥️ Secure Coding Practices: Techniques for writing secure code in embedded systems.
+  - 🚨 Intrusion Detection and Prevention: Strategies for detecting and preventing security breaches.
+- **Projects**: Developing security measures for a sample embedded system.
+- **Recommended Books**:
+  - "Embedded Systems Security: Practical Methods for Safe and Secure Software and Systems Development" by David Kleidermacher and Mike Kleidermacher
+  - "Practical Embedded Security: Building Secure Resource-Constrained Systems" by Timothy Stapko
