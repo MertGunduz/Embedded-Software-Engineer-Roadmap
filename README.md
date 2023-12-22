@@ -26,12 +26,12 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 
 ### 📎 Curriculum Hyperlinks
 
-1. [📕 Semester 1](#-semester-1-) - Focuses on foundational subjects like C programming, calculus, basic physics, and electronic fundamentals.
-2. [📘 Semester 2](#-semester-2-) - Delves into data structures, algorithms, more advanced physics (electricity and magnetism), and digital electronics.
-3. [📙 Semester 3](#-semester-3-) - Explores object-oriented programming, microcontroller applications, and advanced circuit analysis.
-4. [📗 Semester 4](#-semester-4-) - Covers computer architecture, embedded C programming, and electromagnetic fields and waves.
-5. [📒 Semester 5](#-semester-5-) - Introduces real-time operating systems, embedded system design, and the basics of control systems.
-6. [📓 Semester 6](#-semester-6-) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
+1. [📕 Semester 1](#semester-1-) - Focuses on foundational subjects like C programming, calculus, basic physics, and electronic fundamentals.
+2. [📘 Semester 2](#semester-2-) - Delves into data structures, algorithms, more advanced physics (electricity and magnetism), and digital electronics.
+3. [📙 Semester 3](#semester-3-) - Explores object-oriented programming, microcontroller applications, and advanced circuit analysis.
+4. [📗 Semester 4](#semester-4-) - Covers computer architecture, embedded C programming, and electromagnetic fields and waves.
+5. [📒 Semester 5](#semester-5-) - Introduces real-time operating systems, embedded system design, and the basics of control systems.
+6. [📓 Semester 6](#semester-6-) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
 
 ## 🗓 Semesters Overview
 
