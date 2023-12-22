@@ -14,7 +14,7 @@
 
 ## 📈 Curriculum Overview
 
-The curriculum is divided into eight semesters, each focusing on specific topics critical for an embedded software engineer.
+The curriculum is divided into six semesters, each focusing on specific topics critical for an embedded software engineer.
 
 ### 📎 Curriculum Hyperlinks
 
