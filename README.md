@@ -32,8 +32,6 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 4. [📗 Semester 4](#semester-4-) - Covers computer architecture, embedded C programming, and electromagnetic fields and waves.
 5. [📒 Semester 5](#semester-5-) - Introduces real-time operating systems, embedded system design, and the basics of control systems.
 6. [📓 Semester 6](#semester-6-) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
-
-<br>
  
 ## 🗓 Semesters Overview
 
@@ -68,8 +66,6 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 1. **Computer Networks** - Basics of data communication and networking.
 2. **Hardware/Software Co-Design** - Integrating hardware and software in system design.
 3. **Wireless Communication Systems** - Principles of wireless communication technologies.
-
-<br>
 
 ## 🚀 After Completing the Embedded Software Engineer Roadmap
 
