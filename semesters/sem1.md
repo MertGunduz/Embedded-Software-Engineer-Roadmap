@@ -46,6 +46,9 @@
 - **Recommended Books**:
   - "Fundamentals of Physics" by David Halliday, Robert Resnick, and Jearl Walker
   - "University Physics with Modern Physics" by Hugh D. Young and Roger A. Freedman
+- **Recommended Courses**:
+  - [Physics I by Robert Mathisen **{Udemy}**](https://www.udemy.com/course/the-complete-physics-course/)
+  - [Physics I by Bilkent University **{YouTube}**](https://www.youtube.com/playlist?list=PL5B3KLQNAC5hKpC6tNJk3kyo6Qi3zqJNp)
 
 <br>
 
@@ -60,3 +63,6 @@
 - **Recommended Books**:
   - "Practical Electronics for Inventors" by Paul Scherz and Simon Monk
   - "The Art of Electronics" by Paul Horowitz and Winfield Hill
+- **Recommended Courses**:
+  - [Electronics I by Hardware Academy **{Udemy}**](https://www.udemy.com/course/electronic-circuits-for-beginners-analog-hardware-design/)
+  - [Electronics I by The Engineering Mindset **{YouTube}**](https://www.youtube.com/playlist?list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K)
