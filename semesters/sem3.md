@@ -10,6 +10,9 @@
 - **Projects**: Building applications to solidify OOP concepts.
 - **Recommended Book**:
   - "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
+- **Recommended Courses**:
+  - [Object-Oriented Programming by Tim Butchalka **{Udemy}**](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+  - [Object-Oriented Programming by Caleb Curry **{YouTube}**](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 
 <br>
 
@@ -24,6 +27,8 @@
 - **Recommended Books**:
   - "Programming 32-bit Microcontrollers in C: Exploring the PIC32" by Lucio Di Jasio
   - "The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors" by Joseph Yiu
+- **Recommended Course**:
+  - [Embedded C Programming by Fastbit E. B. Academy **{Udemy}**](https://www.udemy.com/course/microcontroller-embedded-c-programming/)
 
 <br>
 
@@ -38,3 +43,5 @@
 - **Recommended Books**:
   - "Engineering Circuit Analysis" by William H. Hayt, Jr., Jack E. Kemmerly, and Steven M. Durbin
   - "Fundamentals of Electric Circuits" by Charles K. Alexander and Matthew N.O. Sadiku
+- **Recommended Course**:
+  - [Circuit Analysis by Afterclap Academy **{Udemy}**](https://www.udemy.com/course/ac-alternating-current-circuit-analysis/)
