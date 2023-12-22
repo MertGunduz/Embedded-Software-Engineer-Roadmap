@@ -13,8 +13,8 @@
   - "C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
   - "C Primer Plus" by Stephen Prata
 - **Recommended Courses**:
-  - [C Programming by Vlad Budnitski](https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/)
-  - [C Programming by Programiz](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)
+  - [C Programming by Vlad Budnitski **{Udemy}**](https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/)
+  - [C Programming by Programiz **{YouTube}**](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)
 
 <br>
 
@@ -30,8 +30,8 @@
   - "Calculus: Early Transcendentals" by James Stewart
   - "Calculus" by Michael Spivak
 - **Recommended Courses**:
-  - [Calculus I by Krista King](https://www.udemy.com/course/calculus1/)
-  - [Calculus I by Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
+  - [Calculus I by Krista King **{Udemy}**](https://www.udemy.com/course/calculus1/)
+  - [Calculus I by Dr. Trefor Bazett **{YouTube}**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
 
 <br>
   
