@@ -48,7 +48,7 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 3. **Digital Electronics** - Basics of digital circuits, including logic gates and flip-flops.
 
 ### [Semester 3 👈](semesters/sem3.md)
-1. **Object-Oriented Programming** - Concepts of OOP using languages like Java or C++.
+1. **Object-Oriented Programming** - Concepts of OOP using C++.
 2. **Microcontroller Theory and Applications** - Introduction to microcontrollers, programming, and applications.
 3. **Circuit Analysis** - Analyzing complex circuits using methods like Kirchhoff's laws.
 
