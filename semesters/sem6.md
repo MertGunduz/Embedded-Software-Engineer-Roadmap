@@ -12,6 +12,8 @@
   - "Embedded Systems: Architecture, Programming and Design" by Rajkamal
   - "Advanced Embedded Systems" by Robert Oshana
 
+<br>
+
 ### 🌍 Computer Networks
 - **Overview**: Gain an understanding of the basics of data communication and networking, essential for modern embedded systems.
 - **Topics Covered**:
@@ -23,6 +25,8 @@
 - **Recommended Books**:
   - "Computer Networking: A Top-Down Approach" by James Kurose and Keith Ross
   - "Computer Networks" by Andrew S. Tanenbaum and David J. Wetherall
+
+<br>
 
 ### 🛠️ Hardware/Software Co-Design
 - **Overview**: Understand the integrated approach to designing hardware and software in a cohesive and efficient manner.
