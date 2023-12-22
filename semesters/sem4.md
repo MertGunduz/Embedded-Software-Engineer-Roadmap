@@ -12,6 +12,8 @@
   - "Computer Organization and Design MIPS Edition: The Hardware/Software Interface" by David A. Patterson and John L. Hennessy
   - "Computer Architecture: A Quantitative Approach" by John L. Hennessy and David A. Patterson
 
+<br>
+
 ### 🛠️ Embedded C Programming
 - **Overview**: Dive deeper into C programming, specifically tailored for embedded systems.
 - **Topics Covered**:
@@ -23,6 +25,8 @@
 - **Recommended Books**:
   - "Programming Embedded Systems in C and C++" by Michael Barr
   - "Embedded C Programming and the Microchip PIC" by Richard H. Barnett, Sarah Cox, and Larry O'Cull
+
+<br>
 
 ### 📡 Electromagnetic Fields and Waves
 - **Overview**: Delve into the principles of electromagnetic theory and its applications in modern technology.
