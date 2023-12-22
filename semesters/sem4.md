@@ -11,6 +11,8 @@
 - **Recommended Books**:
   - "Computer Organization and Design MIPS Edition: The Hardware/Software Interface" by David A. Patterson and John L. Hennessy
   - "Computer Architecture: A Quantitative Approach" by John L. Hennessy and David A. Patterson
+- **Recommended Course**:
+  - [Computer Organization and Architecture by Engineering Funda **{YouTube}**](https://www.youtube.com/playlist?list=PLgwJf8NK-2e7XZXcFujMw--IDZ2nnsXNT)
 
 <br>
 
@@ -25,6 +27,8 @@
 - **Recommended Books**:
   - "Programming Embedded Systems in C and C++" by Michael Barr
   - "Embedded C Programming and the Microchip PIC" by Richard H. Barnett, Sarah Cox, and Larry O'Cull
+- **Recommended Course**:
+  - [Embedded C by Israel Gbati **{Udemy}**](https://www.udemy.com/course/embedded-systems-bare-metal-programming/)
 
 <br>
 
@@ -39,3 +43,5 @@
 - **Recommended Books**:
   - "Engineering Electromagnetics" by William H. Hayt Jr., and John A. Buck
   - "Elements of Electromagnetics" by Matthew N.O. Sadiku
+- **Recommended Course**:
+  - [Electromagnetic Field and Wave Theory by Ekeeda **{YouTube}**](https://www.youtube.com/playlist?list=PLm_MSClsnwm-WXH-IcaX-hMon-QHNvxh5)
