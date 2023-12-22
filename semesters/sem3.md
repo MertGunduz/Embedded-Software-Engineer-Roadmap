@@ -1,16 +1,15 @@
 # 📙 Semester 3
 
 ### 🖥️ Object-Oriented Programming
-- **Overview**: Dive into the principles of Object-Oriented Programming (OOP), using Java or C++ as the primary language.
+- **Overview**: Dive into the principles of Object-Oriented Programming (OOP), using C++ as the primary language.
 - **Topics Covered**:
   - 📦 Classes and Objects: Fundamentals of creating classes and objects.
   - 🔄 Inheritance and Polymorphism: Exploring the power of inheritance and polymorphic behaviors.
   - 🛡️ Encapsulation and Abstraction: Learning about data hiding and interface abstraction.
   - 🧩 Design Patterns: Introduction to common OOP design patterns for robust software design.
 - **Projects**: Building applications to solidify OOP concepts.
-- **Recommended Books**:
-  - "Effective Java" by Joshua Bloch (for Java)
-  - "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo (for C++)
+- **Recommended Book**:
+  - "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
 
 <br>
 
