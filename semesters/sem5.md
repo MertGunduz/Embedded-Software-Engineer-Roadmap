@@ -12,6 +12,8 @@
   - "Real-Time Systems" by Jane W. S. Liu
   - "Real-Time Concepts for Embedded Systems" by Qing Li and Caroline Yao
 
+<br>
+
 ### 🎛️ Embedded System Design
 - **Overview**: Learn the intricacies of designing and implementing embedded systems for practical applications.
 - **Topics Covered**:
@@ -24,6 +26,8 @@
   - "Making Embedded Systems" by Elecia White
   - "Embedded Systems Design" by Steve Heath
 
+<br>
+
 ### 📡 Digital Signal Processing (DSP)
 - **Overview**: Explore the techniques and practical applications of DSP in various fields.
 - **Topics Covered**:
@@ -35,6 +39,8 @@
 - **Recommended Books**:
   - "Understanding Digital Signal Processing" by Richard G. Lyons
   - "Digital Signal Processing: A Practical Guide for Engineers and Scientists" by Steven Smith
+
+<br>
 
 ### 🕹️ Control Systems
 - **Overview**: Dive into the basic principles of control systems and their wide-ranging applications.
