@@ -12,6 +12,8 @@
   - "Effective Java" by Joshua Bloch (for Java)
   - "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo (for C++)
 
+<br>
+
 ### 🎛️ Microcontroller Theory and Applications
 - **Overview**: Delve into the world of microcontrollers, understanding their programming and practical applications.
 - **Topics Covered**:
@@ -23,6 +25,8 @@
 - **Recommended Books**:
   - "Programming 32-bit Microcontrollers in C: Exploring the PIC32" by Lucio Di Jasio
   - "The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors" by Joseph Yiu
+
+<br>
 
 ### 📊 Circuit Analysis
 - **Overview**: Learn to analyze and understand complex electronic circuits.
