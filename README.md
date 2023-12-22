@@ -63,7 +63,6 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 3. **Control Systems** - Basic principles of control systems and their applications.
 
 ### 📓 [Semester 6 🔍](semesters/sem6.md)
-1. **Advanced Embedded Systems** - Advanced topics in embedded system design and programming.
-2. **Computer Networks** - Basics of data communication and networking.
-3. **Hardware/Software Co-Design** - Integrating hardware and software in system design.
-4. **Wireless Communication Systems** - Principles of wireless communication technologies.
+1. **Computer Networks** - Basics of data communication and networking.
+2. **Hardware/Software Co-Design** - Integrating hardware and software in system design.
+3. **Wireless Communication Systems** - Principles of wireless communication technologies.
