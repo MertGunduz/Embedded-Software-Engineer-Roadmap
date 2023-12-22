@@ -11,7 +11,7 @@
 - **Recommended Book**:
   - "C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
 - **Recommended Courses**:
-  - [Object-Oriented Programming by Tim Butchalka **{Udemy}**](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+  - [Object-Oriented Programming by Tim Buchalka **{Udemy}**](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
   - [Object-Oriented Programming by Caleb Curry **{YouTube}**](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 
 <br>
