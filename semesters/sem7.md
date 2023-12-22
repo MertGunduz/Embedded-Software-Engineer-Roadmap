@@ -12,6 +12,8 @@
   - "Wireless Communications" by Andreas F. Molisch
   - "Modern Wireless Communications" by Simon Haykin and Michael Moher
 
+<br>
+
 ### 🔒 Embedded Systems Security
 - **Overview**: Focus on the security aspects specific to embedded systems, a critical area in modern technology applications.
 - **Topics Covered**:
