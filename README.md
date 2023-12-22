@@ -38,7 +38,7 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 ### 📘 [Semester 2 🔍](semesters/sem2.md)
 1. **Data Structures and Algorithms** - Fundamental data structures (lists, stacks, queues) and algorithms.
 2. **Physics II** - Electricity and magnetism.
-3. **Digital Logic Design** - Basics of digital circuits, including logic gates and flip-flops.
+3. **Digital Electronics** - Basics of digital circuits, including logic gates and flip-flops.
 
 ### 📙 [Semester 3 🔍](semesters/sem3.md)
 1. **Object-Oriented Programming** - Concepts of OOP using languages like Java or C++.
