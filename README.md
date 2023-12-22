@@ -24,7 +24,6 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 4. [📗 Semester 4](#-semester-4-)
 5. [📒 Semester 5](#-semester-5-)
 6. [📓 Semester 6](#-semester-6-)
-7. [📔 Semester 7](#-semester-7-)
 
 ## 🗓 Semesters Overview
 
@@ -60,7 +59,4 @@ The curriculum is divided into eight semesters, each focusing on specific topics
 1. **Advanced Embedded Systems** - Advanced topics in embedded system design and programming.
 2. **Computer Networks** - Basics of data communication and networking.
 3. **Hardware/Software Co-Design** - Integrating hardware and software in system design.
-
-### 📔 [Semester 7 🔍](semesters/sem7.md)
-1. **Wireless Communication Systems** - Principles of wireless communication technologies.
-2. **Embedded Systems Security** - Security issues specific to embedded systems.
+4. **Wireless Communication Systems** - Principles of wireless communication technologies.
