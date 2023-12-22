@@ -11,6 +11,9 @@
 - **Recommended Books**:
   - "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
   - "Data Structures and Algorithms in Java" by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
+- **Recommended Courses**:
+  - [Data Structures and Algorithms by Atchyut Kumar **{Udemy}**](https://www.udemy.com/course/mastering-data-structures-and-algorithms-using-c-programming/)
+  - [Data Structures and Algorithms by FreeCodeCamp **{YouTube}**](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 
 <br>
 
@@ -25,17 +28,22 @@
 - **Recommended Books**:
   - "Electricity and Magnetism" by Edward M. Purcell and David J. Morin
   - "Fundamentals of Physics" by David Halliday, Robert Resnick, and Jearl Walker (specific chapters on electricity and magnetism)
+- **Recommended Course**:
+  - [Physics II by Bilkent University **{YouTube}**](https://www.youtube.com/playlist?list=PL5B3KLQNAC5i2fKfMSPiZ7RzZW-GxeaKB)
 
 <br>
 
-### 🖥️ Digital Logic Design
-- **Overview**: Gain insights into the design and function of digital circuits, a crucial aspect of embedded systems and computer engineering.
+### 🖥️ Digital Electronics
+- **Overview**: Delve into the world of digital electronics, a foundational element in modern technology, encompassing the principles, components, and applications of digital electronic circuits.
 - **Topics Covered**:
-  - 🧠 Logic Gates: Understanding the basics of AND, OR, NOT, NAND, NOR, XOR, and XNOR gates.
-  - 📊 Combinational Circuits: Designing circuits that perform specific functions, like adders and multiplexers.
-  - ⏲️ Sequential Circuits: Exploring flip-flops, counters, and memory units.
-  - 🛠️ Circuit Design Techniques: Approaches to designing efficient digital circuits.
-- **Projects**: Building and testing various digital circuits and logic designs.
+  - 💡 Basic Electronic Components: Understanding diodes, transistors, resistors, capacitors, and how they contribute to digital electronics.
+  - 🧠 Digital Logic Levels: Exploring the binary nature of digital systems, including logic highs and lows.
+  - 🔄 Analog to Digital Conversion: Studying how analog signals are converted to digital format and vice versa.
+  - 🌐 Microprocessors and Microcontrollers: Introduction to the architecture and functioning of microprocessors and microcontrollers, the heart of many digital systems.
+  - 🛠️ Circuit Assembly and Soldering Techniques: Practical skills for assembling and soldering electronic components to create digital circuits.
+- **Projects**: Designing and building projects like digital watches, simple computers, or automated systems using digital electronic principles.
 - **Recommended Books**:
-  - "Digital Design: With an Introduction to the Verilog HDL" by M. Morris Mano and Michael D. Ciletti
-  - "Fundamentals of Digital Logic with VHDL Design" by Stephen Brown and Zvonko Vranesic
+  - "Digital Electronics: A Practical Approach with VHDL" by William Kleitz
+  - "The Art of Electronics" by Paul Horowitz and Winfield Hill
+- **Recommended Course**:
+  - [Digital Electronics by Hardware Academy **{Udemy}**](https://www.udemy.com/course/crash-course-digital-electronics/)
