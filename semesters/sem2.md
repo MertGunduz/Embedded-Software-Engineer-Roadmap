@@ -12,6 +12,8 @@
   - "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
   - "Data Structures and Algorithms in Java" by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
 
+<br>
+
 ### ⚡ Physics II - Electricity and Magnetism
 - **Overview**: Explore the intriguing world of electricity and magnetism, which are fundamental to understanding modern technology.
 - **Topics Covered**:
@@ -23,6 +25,8 @@
 - **Recommended Books**:
   - "Electricity and Magnetism" by Edward M. Purcell and David J. Morin
   - "Fundamentals of Physics" by David Halliday, Robert Resnick, and Jearl Walker (specific chapters on electricity and magnetism)
+
+<br>
 
 ### 🖥️ Digital Logic Design
 - **Overview**: Gain insights into the design and function of digital circuits, a crucial aspect of embedded systems and computer engineering.
