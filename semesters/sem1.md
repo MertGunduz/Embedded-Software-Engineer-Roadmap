@@ -13,8 +13,8 @@
   - "C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
   - "C Primer Plus" by Stephen Prata
 - **Recommended Courses**:
-  - [Calculus I by Krista King](https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/)
-  - [Calculus I by Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)
+  - [C Programming by Vlad Budnitski](https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/)
+  - [C Programming by Programiz](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)
 
 <br>
 
