@@ -42,3 +42,5 @@
 - **Projects**: Developing a project that requires integrated hardware and software design.
 - **Recommended Book**:
   - "Hardware/Software Co-Design: Principles and Practice" by Jörg Henkel and Sri Parameswaran
+- **Recommended Course**:
+  - [Hardware/Software Interface by Luis Ceze **{YouTube}**](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
