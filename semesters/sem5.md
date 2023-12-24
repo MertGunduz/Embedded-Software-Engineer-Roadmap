@@ -11,6 +11,8 @@
 - **Recommended Books**:
   - "Real-Time Systems" by Jane W. S. Liu
   - "Real-Time Concepts for Embedded Systems" by Qing Li and Caroline Yao
+- **Recommended Course**:
+  - [RTOS by Engineering Israel Gbati **{Udemy}**](https://www.udemy.com/course/freertos-on-arm-processors/)
 
 <br>
 
@@ -25,6 +27,8 @@
 - **Recommended Books**:
   - "Making Embedded Systems" by Elecia White
   - "Embedded Systems Design" by Steve Heath
+- **Recommended Course**:
+  - [Embedded System Design by Kiran Nayak **{Udemy}**](https://www.udemy.com/course/embedded-system-design-using-uml-state-machines/)
 
 <br>
 
@@ -39,6 +43,8 @@
 - **Recommended Books**:
   - "Understanding Digital Signal Processing" by Richard G. Lyons
   - "Digital Signal Processing: A Practical Guide for Engineers and Scientists" by Steven Smith
+- **Recommended Course**:
+  - [Digital Signal Processing by Israel Gbati **{Udemy}**](https://www.udemy.com/course/digital-signal-processing-dsp-from-ground-uptm-in-c/)
 
 <br>
 
@@ -53,3 +59,5 @@
 - **Recommended Books**:
   - "Modern Control Engineering" by Katsuhiko Ogata
   - "Control Systems Engineering" by Norman S. Nise
+- **Recommended Course**:
+  - [Control Systems by Srinivas Andoor **{Udemy}**](https://www.udemy.com/course/mastering-control-systems-very-basics-to-advance/)
