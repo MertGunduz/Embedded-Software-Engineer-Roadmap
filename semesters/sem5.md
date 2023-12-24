@@ -12,7 +12,7 @@
   - "Real-Time Systems" by Jane W. S. Liu
   - "Real-Time Concepts for Embedded Systems" by Qing Li and Caroline Yao
 - **Recommended Course**:
-  - [RTOS by Engineering Israel Gbati **{Udemy}**](https://www.udemy.com/course/freertos-on-arm-processors/)
+  - [RTOS by Israel Gbati **{Udemy}**](https://www.udemy.com/course/freertos-on-arm-processors/)
 
 <br>
 
