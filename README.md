@@ -89,3 +89,9 @@ Upon completing these six semesters of the Embedded Software Engineer Roadmap, y
 
 - **Project Development**: Ability to develop and manage embedded systems projects from concept to completion.
 - **Problem-Solving Skills**: Enhanced capability to troubleshoot and solve complex issues in embedded systems.
+
+### 🌟 Open Source Projects for Experience
+
+- **Find Relevant Projects**: Look for open source projects related to embedded systems on platforms like GitHub or GitLab. 
+- **Start Contributing**: Begin with small contributions, like bug fixes or documentation improvements, then gradually move to more complex tasks.
+- **Build Connections**: Collaborating on open source projects connects you with professionals and enthusiasts in the field, expanding your network.
