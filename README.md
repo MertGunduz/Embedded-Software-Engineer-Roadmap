@@ -32,7 +32,8 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 4. [📗 Semester 4](#semester-4-) - Covers computer architecture, embedded C programming, and electromagnetic fields and waves.
 5. [📒 Semester 5](#semester-5-) - Introduces real-time operating systems, embedded system design, and the basics of control systems.
 6. [📓 Semester 6](#semester-6-) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
- 
+7. [➕ Nice To Have](#nice-to-have) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
+
 ## 🗓 Semesters Overview
 
 ### [Semester 1 👈](semesters/sem1.md)
@@ -67,6 +68,11 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 2. **Hardware/Software Co-Design** - Integrating hardware and software in system design.
 3. **Wireless Communication Systems** - Principles of wireless communication technologies.
 
+### [Nice to Have 👈](semesters/nicetohave.md)
+1. **Linux** - Understanding and using the Linux operating system, with a focus on its application in programming, networking, and system administration.
+2. **Arduino** - Introduction to the Arduino platform, focusing on building and programming basic microcontroller-based projects.
+3. **Raspberry Pi** - Exploring the Raspberry Pi as a tool for learning computer science and electronics, including hands-on projects.
+   
 ## 🚀 After Completing the Embedded Software Engineer Roadmap
 
 Upon completing these six semesters of the Embedded Software Engineer Roadmap, you will have acquired a comprehensive set of skills and knowledge that are crucial in the field of embedded systems. Here's what you can expect:
