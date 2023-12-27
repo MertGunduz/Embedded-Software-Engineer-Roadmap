@@ -32,7 +32,7 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 4. [📗 Semester 4](#semester-4-) - Covers computer architecture, embedded C programming, and electromagnetic fields and waves.
 5. [📒 Semester 5](#semester-5-) - Introduces real-time operating systems, embedded system design, and the basics of control systems.
 6. [📓 Semester 6](#semester-6-) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
-7. [➕ Nice To Have](#nice-to-have) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
+7. [➕ Nice To Have](#nice-to-have-) - Advanced topics including computer networks, hardware/software co-design, and wireless communication systems.
 
 ## 🗓 Semesters Overview
 
