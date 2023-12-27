@@ -70,8 +70,9 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 
 ### [Nice to Have 👈](semesters/nicetohave.md)
 1. **Linux** - Understanding and using the Linux operating system, with a focus on its application in programming, networking, and system administration.
-2. **Arduino** - Introduction to the Arduino platform, focusing on building and programming basic microcontroller-based projects.
-3. **Raspberry Pi** - Exploring the Raspberry Pi as a tool for learning computer science and electronics, including hands-on projects.
+2. **Basic Arduino** - Introduction to the Arduino platform, focusing on building and programming basic microcontroller-based projects.
+3. **Advanced Arduino** - Advanced coding and designing in the Arduino platform, focusing on building and programming complicated projects.
+4. **Raspberry Pi** - Exploring the Raspberry Pi as a tool for learning computer science and electronics, including hands-on projects.
    
 ## 🚀 After Completing the Embedded Software Engineer Roadmap
 
