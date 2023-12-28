@@ -29,7 +29,7 @@
   - "Arduino Workshop" by John Boxall
   - "Getting Started with Arduino" by Massimo Banzi and Michael Shiloh
 - **Recommended Courses**:
-  - [Arduino Programming and Hardware Fundamentals by Coursera](https://www.coursera.org/specializations/arduino)
+  - [Basic Arduino by Dr. Peter Dalmaris {Udemy}](https://www.udemy.com/course/arduino-sbs-17gs/)
 
 <br>
   
@@ -45,7 +45,7 @@
   - "Advanced Arduino Projects" by Simon Monk
   - "Arduino Robotics" by Warren, Adams, and Molle
 - **Recommended Courses**:
-  - [Advanced Arduino Programming by Udemy](https://www.udemy.com/course/advanced-arduino-programming/)
+  - [Advanced Arduino by Dr. Peter Dalmaris {Udemy}](https://www.udemy.com/course/arduino-sbs-getting-serious/)
 
 <br>
 
@@ -61,4 +61,4 @@
   - "Raspberry Pi for Dummies" by Sean McManus and Mike Cook
   - "Exploring Raspberry Pi" by Derek Molloy
 - **Recommended Courses**:
-  - [Raspberry Pi for Beginners by Coursera](https://www.coursera.org/specializations/raspberry-pi)
+  - [Raspberry Pi by Edouard Renard {Udemy}](https://www.udemy.com/course/raspberry-pi-for-beginners-step-by-step/)
