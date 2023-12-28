@@ -12,7 +12,7 @@
 - **Recommended Books**:
   - "Linux Bible" by Christopher Negus
   - "The Linux Command Line" by William E. Shotts Jr.
-- **Recommended Courses**:
+- **Recommended Course**:
   - [Linux Fundamentals by tutoriaLinux {YouTube}](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 
 <br>
@@ -28,7 +28,7 @@
 - **Recommended Books**:
   - "Arduino Workshop" by John Boxall
   - "Getting Started with Arduino" by Massimo Banzi and Michael Shiloh
-- **Recommended Courses**:
+- **Recommended Course**:
   - [Basic Arduino by Dr. Peter Dalmaris {Udemy}](https://www.udemy.com/course/arduino-sbs-17gs/)
 
 <br>
@@ -44,7 +44,7 @@
 - **Recommended Books**:
   - "Advanced Arduino Projects" by Simon Monk
   - "Arduino Robotics" by Warren, Adams, and Molle
-- **Recommended Courses**:
+- **Recommended Course**:
   - [Advanced Arduino by Dr. Peter Dalmaris {Udemy}](https://www.udemy.com/course/arduino-sbs-getting-serious/)
 
 <br>
@@ -54,11 +54,10 @@
 - **Topics Covered**:
   - 🖥️ Raspberry Pi Basics: Setting up and getting to know your Raspberry Pi.
   - 🌐 Networking and IoT: Building networked and IoT projects with Raspberry Pi.
-  - 📚 Educational Applications: Using Raspberry Pi for learning and teaching.
   - 🌟 Creative Projects: Exploring creative applications and making with Raspberry Pi.
 - **Projects**: Embark on practical Raspberry Pi projects to apply your knowledge.
 - **Recommended Books**:
   - "Raspberry Pi for Dummies" by Sean McManus and Mike Cook
   - "Exploring Raspberry Pi" by Derek Molloy
-- **Recommended Courses**:
+- **Recommended Course**:
   - [Raspberry Pi by Edouard Renard {Udemy}](https://www.udemy.com/course/raspberry-pi-for-beginners-step-by-step/)
