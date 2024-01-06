@@ -56,7 +56,6 @@ The curriculum is divided into six semesters, each focusing on specific topics c
 ### [Semester 4 👈](semesters/sem4.md)
 1. **Computer Organization and Architecture** - Detailed study of computer architecture, memory, and processors.
 2. **Embedded C Programming** - In-depth study of C programming for embedded systems.
-3. **Electromagnetic Fields and Waves** - Study of electromagnetic theory and applications.
 
 ### [Semester 5 👈](semesters/sem5.md)
 1. **Real-Time Operating Systems** - Concepts of RTOS, scheduling, and resource management.
